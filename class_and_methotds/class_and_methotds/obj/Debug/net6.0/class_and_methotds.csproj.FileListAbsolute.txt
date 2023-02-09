@@ -1,0 +1,15 @@
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/bin/Debug/net6.0/class_and_methotds
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/bin/Debug/net6.0/class_and_methotds.deps.json
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/bin/Debug/net6.0/class_and_methotds.runtimeconfig.json
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/bin/Debug/net6.0/class_and_methotds.dll
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/bin/Debug/net6.0/ref/class_and_methotds.dll
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/bin/Debug/net6.0/class_and_methotds.pdb
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.csproj.AssemblyReference.cache
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.AssemblyInfoInputs.cache
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.AssemblyInfo.cs
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.csproj.CoreCompileInputs.cache
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.dll
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/ref/class_and_methotds.dll
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.pdb
+/Users/viktoria/Desktop/Ебучая алгоритмика/2 семестр/class_and_methotds/class_and_methotds/obj/Debug/net6.0/class_and_methotds.genruntimeconfig.cache
